@@ -5,8 +5,6 @@ import random
 import requests
 
 # Isaac Schultz
-# April 27, 2018
-# Sitka Tech Application Engineering Exercise
  
 ########### "ISAAC'S GROCERY STORE" #######################
 
